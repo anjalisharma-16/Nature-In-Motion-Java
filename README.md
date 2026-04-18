@@ -1,6 +1,6 @@
 # Nature In Motion -A Java Project
 This project presents a visually engaging animated scene built using Java Swing, a GUI toolkit in the Java Standard Library. The program, named Sunrise class simulates a two-phase natural animation: a sunrise over mountains that gradually transitions into a serene ocean scene.
-# The project is designed to highlight several key areas of Java programming: 
+# Java Programming Key concepts demonstrated :
 - Custom 2D graphics rendering using Graphics2D 
 - Gradient fills and alpha transparency with AlphaComposite 
 - Event-driven programming with ActionListener and javax.swing.Timer 
